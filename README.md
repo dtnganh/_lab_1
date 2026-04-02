@@ -109,5 +109,5 @@ pytest tests/ -k "test_X" # Chạy test cụ thể
 
 ## Liên Hệ
 
-**VinUniversity — School of Engineering and Computer Science**  
+**VinUniversity — College of Engineering and Computer Science**  
 Hà Nội, Việt Nam
